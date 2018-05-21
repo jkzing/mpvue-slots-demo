@@ -1,7 +1,7 @@
 <template>
   <div class="a-comp">
     <CompB>
-      <div>fff</div>
+      <div>fffxxxddd</div>
     </CompB>
   </div>
 </template>
